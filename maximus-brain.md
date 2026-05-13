@@ -1,14 +1,17 @@
-## MIA Macro Intelligence — 2026-05-13 08:18 UTC
-**DXY (US Dollar Index):** $98.49 | 0%
-→ DXY FLAT (0%) — neutral dollar pressure on gold.
+# MAXIMUS INTELLIGENCE LOG
+**Asset:** XAU/USD (Gold)
+**Mode:** Monitoring-only (live trading begins May 20, 2026)
 
-**US10Y (Treasury Yield):** 4.46% | 0%
-→ US10Y STABLE (0%) — neutral yield environment for gold.
+---
 
-**NEUTRAL: No strong macro cross-pressure. Technical signals primary.**
+## Monitoring started 2026-05-13. Live trading begins May 20 2026.
+**Capital on deposit:** 10,000 NOK (Trade Nation)
+**Risk per trade:** 2% max (200 NOK)
+**Max daily drawdown:** 4% (400 NOK) — halt if breached
+**Primary setup:** Trend-following with RSI + SMA confirmation
+**No-trade rule:** 30 min before/after any red-flag macro event (NFP, FOMC, CPI)
 
-**Macro Context:**
-No macro news retrieved this cycle
+This file is updated daily by /api/maximus/scout. Each entry appends below the previous — never overwritten.
 
 ---
 
