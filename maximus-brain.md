@@ -1,3 +1,9 @@
+# MAXIMUS INTELLIGENCE LOG
+**Asset:** XAU/USD (Gold)
+**Mode:** Monitoring-only (live trading begins May 20, 2026)
+
+---
+
 # Maximus Intelligence Brain
 *Last updated: 2026-05-13 08:36 UTC*
 
@@ -15,3 +21,24 @@ News unavailable
 
 ## Maximus Assessment
 Price at $4703.7. RSI 50 signals NEUTRAL. Trend is UNKNOWN. No clear signal. Monitoring.
+
+---
+
+## Scan — 2026-05-14 05:00 UTC
+**Mode:** MONITORING ONLY (no live trades until May 20, 2026)
+
+| Metric | Value | Signal |
+|--------|-------|--------|
+| Gold Spot | $4710.7 | Δ -0.5 (-0.01%) |
+| RSI 14 | 49 | NEUTRAL |
+| SMA 20 | $4678.07 | — |
+| SMA 50 | $4741.7 | — |
+| Trend | BEARISH (SMA20 < SMA50) | — |
+| History depth | 50 days | ✅ SMA50 ready |
+
+**Trade Signal:** NO TRADE — wait for clearer signal
+
+**News context:**
+News unavailable
+
+**Maximus note:** Price $4710.7. RSI 49 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
