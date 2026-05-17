@@ -221,3 +221,24 @@ News unavailable
 News unavailable
 
 **Maximus note:** Price $4561.9. RSI 42 (NEUTRAL). PARTIAL — SMA20 calculated, SMA50 needs more history. Pattern accumulating — 49 days of data on record.
+
+---
+
+## Scan — 2026-05-17 07:51 UTC
+**Mode:** MONITORING ONLY (no live trades until May 20, 2026)
+
+| Metric | Value | Signal |
+|--------|-------|--------|
+| Gold Spot | $4561.9 | Δ 0 (0%) |
+| RSI 14 | 42 | NEUTRAL |
+| SMA 20 | $4661.65 | — |
+| SMA 50 | $N/A | — |
+| Trend | PARTIAL — SMA20 calculated, SMA50 needs more history | — |
+| History depth | 49 days | ⏳ need 1 more days |
+
+**Trade Signal:** MONITORING — accumulating data
+
+**News context:**
+News unavailable
+
+**Maximus note:** Price $4561.9. RSI 42 (NEUTRAL). PARTIAL — SMA20 calculated, SMA50 needs more history. Pattern accumulating — 49 days of data on record.
