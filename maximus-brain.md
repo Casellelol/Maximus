@@ -1,14 +1,6 @@
-## MIA Macro Intelligence — 2026-05-17 08:40 UTC
-**DXY (US Dollar Index):** $99.27 | 0%
-→ DXY FLAT (0%) — neutral dollar pressure on gold.
-
-**US10Y (Treasury Yield):** 4.6% | +0.09%
-→ US10Y STABLE (0.09%) — neutral yield environment for gold.
-
-**NEUTRAL: No strong macro cross-pressure. Technical signals primary.**
-
-**Macro Context:**
-No macro news retrieved this cycle
+# MAXIMUS INTELLIGENCE LOG
+**Asset:** XAU/USD (Gold)
+**Mode:** Monitoring-only (live trading begins May 20, 2026)
 
 ---
 
@@ -256,3 +248,24 @@ News unavailable
 News unavailable
 
 **Maximus note:** Price $4561.9. RSI 42 (NEUTRAL). PARTIAL — SMA20 calculated, SMA50 needs more history. Pattern accumulating — 49 days of data on record.
+
+---
+
+## Scan — 2026-05-18 05:00 UTC
+**Mode:** MONITORING ONLY (no live trades until May 20, 2026)
+
+| Metric | Value | Signal |
+|--------|-------|--------|
+| Gold Spot | $4542.8 | Δ 0.7 (0.02%) |
+| RSI 14 | 46 | NEUTRAL |
+| SMA 20 | $4648.15 | — |
+| SMA 50 | $4718.79 | — |
+| Trend | BEARISH (SMA20 < SMA50) | — |
+| History depth | 50 days | ✅ SMA50 ready |
+
+**Trade Signal:** NO TRADE — wait for clearer signal
+
+**News context:**
+News unavailable
+
+**Maximus note:** Price $4542.8. RSI 46 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
