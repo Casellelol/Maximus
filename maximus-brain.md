@@ -1,3 +1,17 @@
+## MIA Macro Intelligence — 2026-05-22 08:40 UTC
+**DXY (US Dollar Index):** $99.24 | 0%
+→ DXY FLAT (0%) — neutral dollar pressure on gold.
+
+**US10Y (Treasury Yield):** 4.59% | +0.57%
+→ US10Y RISING (+0.57%) — HEADWIND for gold. Higher yields compete with gold.
+
+**CAUTION: One headwind active. Reduce position size.**
+
+**Macro Context:**
+No macro news retrieved this cycle
+
+---
+
 # MAXIMUS INTELLIGENCE LOG
 **Asset:** XAU/USD (Gold)
 **Mode:** Monitoring-only (live trading begins May 20, 2026)
