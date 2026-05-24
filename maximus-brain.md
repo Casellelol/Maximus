@@ -1,14 +1,6 @@
-## MIA Macro Intelligence — 2026-05-23 08:40 UTC
-**DXY (US Dollar Index):** $99.32 | +0.03%
-→ DXY FLAT (0.03%) — neutral dollar pressure on gold.
-
-**US10Y (Treasury Yield):** 4.56% | -0.04%
-→ US10Y STABLE (-0.04%) — neutral yield environment for gold.
-
-**NEUTRAL: No strong macro cross-pressure. Technical signals primary.**
-
-**Macro Context:**
-No macro news retrieved this cycle
+# MAXIMUS INTELLIGENCE LOG
+**Asset:** XAU/USD (Gold)
+**Mode:** Monitoring-only (live trading begins May 20, 2026)
 
 ---
 
@@ -463,42 +455,21 @@ News unavailable
 
 ---
 
-## Scan — 2026-05-22 05:00 UTC
+## Scan — 2026-05-24 05:00 UTC
 **Mode:** MONITORING ONLY (no live trades until May 20, 2026)
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Gold Spot | $4529 | Δ -0.1 (0%) |
-| RSI 14 | 51 | NEUTRAL |
-| SMA 20 | $4611.04 | — |
-| SMA 50 | $4669.02 | — |
-| Trend | BEARISH (SMA20 < SMA50) | — |
-| History depth | 50 days | ✅ SMA50 ready |
-
-**Trade Signal:** NO TRADE — wait for clearer signal
-
-**News context:**
-News unavailable
-
-**Maximus note:** Price $4529. RSI 51 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
-
----
-
-## Scan — 2026-05-23 07:51 UTC
-**Mode:** MONITORING ONLY (no live trades until May 20, 2026)
-
-| Metric | Value | Signal |
-|--------|-------|--------|
-| Gold Spot | $4510.5 | Δ 0.5 (0.01%) |
+| Gold Spot | $4523.2 | Δ 0 (0%) |
 | RSI 14 | 50 | NEUTRAL |
-| SMA 20 | $4610.64 | — |
-| SMA 50 | $4668.86 | — |
-| Trend | BEARISH (SMA20 < SMA50) | — |
-| History depth | 50 days | ✅ SMA50 ready |
+| SMA 20 | $4610.75 | — |
+| SMA 50 | $N/A | — |
+| Trend | PARTIAL — SMA20 calculated, SMA50 needs more history | — |
+| History depth | 49 days | ⏳ need 1 more days |
 
-**Trade Signal:** NO TRADE — wait for clearer signal
+**Trade Signal:** MONITORING — accumulating data
 
 **News context:**
 News unavailable
 
-**Maximus note:** Price $4510.5. RSI 50 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
+**Maximus note:** Price $4523.2. RSI 50 (NEUTRAL). PARTIAL — SMA20 calculated, SMA50 needs more history. Pattern accumulating — 49 days of data on record.
