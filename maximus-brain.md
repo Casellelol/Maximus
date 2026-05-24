@@ -455,7 +455,7 @@ News unavailable
 
 ---
 
-## Scan — 2026-05-24 05:00 UTC
+## Scan — 2026-05-24 07:51 UTC
 **Mode:** MONITORING ONLY (no live trades until May 20, 2026)
 
 | Metric | Value | Signal |
