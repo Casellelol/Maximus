@@ -1,14 +1,6 @@
-## MIA Macro Intelligence — 2026-05-26 08:40 UTC
-**DXY (US Dollar Index):** $99.06 | 0%
-→ DXY FLAT (0%) — neutral dollar pressure on gold.
-
-**US10Y (Treasury Yield):** 4.56% | -0.04%
-→ US10Y STABLE (-0.04%) — neutral yield environment for gold.
-
-**NEUTRAL: No strong macro cross-pressure. Technical signals primary.**
-
-**Macro Context:**
-No macro news retrieved this cycle
+# MAXIMUS INTELLIGENCE LOG
+**Asset:** XAU/USD (Gold)
+**Mode:** Monitoring-only (live trading begins May 20, 2026)
 
 ---
 
@@ -418,15 +410,15 @@ News unavailable
 
 ---
 
-## Scan — 2026-05-20 07:51 UTC
+## Scan — 2026-05-27 05:00 UTC
 **Mode:** MONITORING ONLY (no live trades until May 20, 2026)
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Gold Spot | $4484.1 | Δ -1.7 (-0.04%) |
-| RSI 14 | 39 | NEUTRAL |
-| SMA 20 | $4626.61 | — |
-| SMA 50 | $4692.37 | — |
+| Gold Spot | $4513.8 | Δ 1.1 (0.02%) |
+| RSI 14 | 28 | OVERSOLD — watch for reversal buy |
+| SMA 20 | $4598.01 | — |
+| SMA 50 | $4648.22 | — |
 | Trend | BEARISH (SMA20 < SMA50) | — |
 | History depth | 50 days | ✅ SMA50 ready |
 
@@ -435,25 +427,4 @@ News unavailable
 **News context:**
 News unavailable
 
-**Maximus note:** Price $4484.1. RSI 39 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
-
----
-
-## Scan — 2026-05-26 07:51 UTC
-**Mode:** MONITORING ONLY (no live trades until May 20, 2026)
-
-| Metric | Value | Signal |
-|--------|-------|--------|
-| Gold Spot | $4525.5 | Δ 0.6 (0.01%) |
-| RSI 14 | 47 | NEUTRAL |
-| SMA 20 | $4603.15 | — |
-| SMA 50 | $4658.32 | — |
-| Trend | BEARISH (SMA20 < SMA50) | — |
-| History depth | 50 days | ✅ SMA50 ready |
-
-**Trade Signal:** NO TRADE — wait for clearer signal
-
-**News context:**
-News unavailable
-
-**Maximus note:** Price $4525.5. RSI 47 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
+**Maximus note:** Price $4513.8. RSI 28 (OVERSOLD — watch for reversal buy). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
