@@ -1,14 +1,6 @@
-## MIA Macro Intelligence — 2026-05-27 08:40 UTC
-**DXY (US Dollar Index):** $99.08 | 0%
-→ DXY FLAT (0%) — neutral dollar pressure on gold.
-
-**US10Y (Treasury Yield):** 4.49% | -0.2%
-→ US10Y STABLE (-0.2%) — neutral yield environment for gold.
-
-**NEUTRAL: No strong macro cross-pressure. Technical signals primary.**
-
-**Macro Context:**
-No macro news retrieved this cycle
+# MAXIMUS INTELLIGENCE LOG
+**Asset:** XAU/USD (Gold)
+**Mode:** Monitoring-only (live trading begins May 20, 2026)
 
 ---
 
@@ -403,15 +395,15 @@ News unavailable
 
 ---
 
-## Scan — 2026-05-20 05:00 UTC
+## Scan — 2026-05-28 05:00 UTC
 **Mode:** MONITORING ONLY (no live trades until May 20, 2026)
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Gold Spot | $4462.4 | Δ -1.5 (-0.03%) |
-| RSI 14 | 38 | NEUTRAL |
-| SMA 20 | $4625.53 | — |
-| SMA 50 | $4691.93 | — |
+| Gold Spot | $4398.3 | Δ -0.5 (-0.01%) |
+| RSI 14 | 16 | OVERSOLD — watch for reversal buy |
+| SMA 20 | $4587.35 | — |
+| SMA 50 | $4634.84 | — |
 | Trend | BEARISH (SMA20 < SMA50) | — |
 | History depth | 50 days | ✅ SMA50 ready |
 
@@ -420,25 +412,4 @@ News unavailable
 **News context:**
 News unavailable
 
-**Maximus note:** Price $4462.4. RSI 38 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
-
----
-
-## Scan — 2026-05-27 07:51 UTC
-**Mode:** MONITORING ONLY (no live trades until May 20, 2026)
-
-| Metric | Value | Signal |
-|--------|-------|--------|
-| Gold Spot | $4515.4 | Δ 1.2 (0.03%) |
-| RSI 14 | 28 | OVERSOLD — watch for reversal buy |
-| SMA 20 | $4598.09 | — |
-| SMA 50 | $4648.25 | — |
-| Trend | BEARISH (SMA20 < SMA50) | — |
-| History depth | 50 days | ✅ SMA50 ready |
-
-**Trade Signal:** NO TRADE — wait for clearer signal
-
-**News context:**
-News unavailable
-
-**Maximus note:** Price $4515.4. RSI 28 (OVERSOLD — watch for reversal buy). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
+**Maximus note:** Price $4398.3. RSI 16 (OVERSOLD — watch for reversal buy). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
