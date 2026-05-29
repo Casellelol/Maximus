@@ -1,14 +1,6 @@
-## MIA Macro Intelligence — 2026-05-28 08:40 UTC
-**DXY (US Dollar Index):** $99.37 | 0%
-→ DXY FLAT (0%) — neutral dollar pressure on gold.
-
-**US10Y (Treasury Yield):** 4.48% | -0.09%
-→ US10Y STABLE (-0.09%) — neutral yield environment for gold.
-
-**NEUTRAL: No strong macro cross-pressure. Technical signals primary.**
-
-**Macro Context:**
-No macro news retrieved this cycle
+# MAXIMUS INTELLIGENCE LOG
+**Asset:** XAU/USD (Gold)
+**Mode:** Monitoring-only (live trading begins May 20, 2026)
 
 ---
 
@@ -388,15 +380,15 @@ News unavailable
 
 ---
 
-## Scan — 2026-05-19 07:51 UTC
+## Scan — 2026-05-29 05:00 UTC
 **Mode:** MONITORING ONLY (no live trades until May 20, 2026)
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Gold Spot | $4545.7 | Δ -0.1 (0%) |
-| RSI 14 | 50 | NEUTRAL |
-| SMA 20 | $4641.01 | — |
-| SMA 50 | $4708.07 | — |
+| Gold Spot | $4539.4 | Δ -1.1 (-0.02%) |
+| RSI 14 | 31 | NEUTRAL |
+| SMA 20 | $4588.63 | — |
+| SMA 50 | $4629.85 | — |
 | Trend | BEARISH (SMA20 < SMA50) | — |
 | History depth | 50 days | ✅ SMA50 ready |
 
@@ -405,25 +397,4 @@ News unavailable
 **News context:**
 News unavailable
 
-**Maximus note:** Price $4545.7. RSI 50 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
-
----
-
-## Scan — 2026-05-28 07:51 UTC
-**Mode:** MONITORING ONLY (no live trades until May 20, 2026)
-
-| Metric | Value | Signal |
-|--------|-------|--------|
-| Gold Spot | $4418.1 | Δ 2.3 (0.05%) |
-| RSI 14 | 17 | OVERSOLD — watch for reversal buy |
-| SMA 20 | $4588.34 | — |
-| SMA 50 | $4635.23 | — |
-| Trend | BEARISH (SMA20 < SMA50) | — |
-| History depth | 50 days | ✅ SMA50 ready |
-
-**Trade Signal:** NO TRADE — wait for clearer signal
-
-**News context:**
-News unavailable
-
-**Maximus note:** Price $4418.1. RSI 17 (OVERSOLD — watch for reversal buy). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
+**Maximus note:** Price $4539.4. RSI 31 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
