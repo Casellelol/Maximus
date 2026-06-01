@@ -1,14 +1,6 @@
-## MIA Macro Intelligence — 2026-05-31 08:40 UTC
-**DXY (US Dollar Index):** $98.94 | 0%
-→ DXY FLAT (0%) — neutral dollar pressure on gold.
-
-**US10Y (Treasury Yield):** 4.45% | +0.36%
-→ US10Y STABLE (0.36%) — neutral yield environment for gold.
-
-**NEUTRAL: No strong macro cross-pressure. Technical signals primary.**
-
-**Macro Context:**
-No macro news retrieved this cycle
+# MAXIMUS INTELLIGENCE LOG
+**Asset:** XAU/USD (Gold)
+**Mode:** Monitoring-only (live trading begins May 20, 2026)
 
 ---
 
@@ -343,35 +335,14 @@ News unavailable
 
 ---
 
-## Scan — 2026-05-18 05:00 UTC
+## Scan — 2026-06-01 05:00 UTC
 **Mode:** MONITORING ONLY (no live trades until May 20, 2026)
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Gold Spot | $4542.8 | Δ 0.7 (0.02%) |
-| RSI 14 | 46 | NEUTRAL |
-| SMA 20 | $4648.15 | — |
-| SMA 50 | $4718.79 | — |
-| Trend | BEARISH (SMA20 < SMA50) | — |
-| History depth | 50 days | ✅ SMA50 ready |
-
-**Trade Signal:** NO TRADE — wait for clearer signal
-
-**News context:**
-News unavailable
-
-**Maximus note:** Price $4542.8. RSI 46 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
-
----
-
-## Scan — 2026-05-31 07:51 UTC
-**Mode:** MONITORING ONLY (no live trades until May 20, 2026)
-
-| Metric | Value | Signal |
-|--------|-------|--------|
-| Gold Spot | $4593 | Δ 0 (0%) |
-| RSI 14 | 38 | NEUTRAL |
-| SMA 20 | $4591.31 | — |
+| Gold Spot | $4541.4 | Δ 0.2 (0%) |
+| RSI 14 | 33 | NEUTRAL |
+| SMA 20 | $4585.26 | — |
 | SMA 50 | $N/A | — |
 | Trend | PARTIAL — SMA20 calculated, SMA50 needs more history | — |
 | History depth | 49 days | ⏳ need 1 more days |
@@ -381,4 +352,4 @@ News unavailable
 **News context:**
 News unavailable
 
-**Maximus note:** Price $4593. RSI 38 (NEUTRAL). PARTIAL — SMA20 calculated, SMA50 needs more history. Pattern accumulating — 49 days of data on record.
+**Maximus note:** Price $4541.4. RSI 33 (NEUTRAL). PARTIAL — SMA20 calculated, SMA50 needs more history. Pattern accumulating — 49 days of data on record.
