@@ -320,15 +320,15 @@ News unavailable
 
 ---
 
-## Scan — 2026-06-02 05:00 UTC
+## Scan — 2026-06-02 07:51 UTC
 **Mode:** MONITORING ONLY (no live trades until May 20, 2026)
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Gold Spot | $4544.6 | Δ 0.2 (0%) |
-| RSI 14 | 39 | NEUTRAL |
-| SMA 20 | $4583.21 | — |
-| SMA 50 | $4627.24 | — |
+| Gold Spot | $4563.3 | Δ -0.2 (0%) |
+| RSI 14 | 41 | NEUTRAL |
+| SMA 20 | $4584.14 | — |
+| SMA 50 | $4627.62 | — |
 | Trend | BEARISH (SMA20 < SMA50) | — |
 | History depth | 50 days | ✅ SMA50 ready |
 
@@ -337,4 +337,4 @@ News unavailable
 **News context:**
 News unavailable
 
-**Maximus note:** Price $4544.6. RSI 39 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
+**Maximus note:** Price $4563.3. RSI 41 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
