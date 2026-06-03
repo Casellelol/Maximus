@@ -1,14 +1,6 @@
-## MIA Macro Intelligence — 2026-06-02 08:40 UTC
-**DXY (US Dollar Index):** $99.11 | 0%
-→ DXY FLAT (0%) — neutral dollar pressure on gold.
-
-**US10Y (Treasury Yield):** 4.47% | +0.04%
-→ US10Y STABLE (0.04%) — neutral yield environment for gold.
-
-**NEUTRAL: No strong macro cross-pressure. Technical signals primary.**
-
-**Macro Context:**
-No macro news retrieved this cycle
+# MAXIMUS INTELLIGENCE LOG
+**Asset:** XAU/USD (Gold)
+**Mode:** Monitoring-only (live trading begins May 20, 2026)
 
 ---
 
@@ -313,36 +305,15 @@ News unavailable
 
 ---
 
-## Scan — 2026-05-17 05:00 UTC
+## Scan — 2026-06-03 05:00 UTC
 **Mode:** MONITORING ONLY (no live trades until May 20, 2026)
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Gold Spot | $4561.9 | Δ 0 (0%) |
-| RSI 14 | 42 | NEUTRAL |
-| SMA 20 | $4661.65 | — |
-| SMA 50 | $N/A | — |
-| Trend | PARTIAL — SMA20 calculated, SMA50 needs more history | — |
-| History depth | 49 days | ⏳ need 1 more days |
-
-**Trade Signal:** MONITORING — accumulating data
-
-**News context:**
-News unavailable
-
-**Maximus note:** Price $4561.9. RSI 42 (NEUTRAL). PARTIAL — SMA20 calculated, SMA50 needs more history. Pattern accumulating — 49 days of data on record.
-
----
-
-## Scan — 2026-06-02 07:51 UTC
-**Mode:** MONITORING ONLY (no live trades until May 20, 2026)
-
-| Metric | Value | Signal |
-|--------|-------|--------|
-| Gold Spot | $4563.3 | Δ -0.2 (0%) |
-| RSI 14 | 41 | NEUTRAL |
-| SMA 20 | $4584.14 | — |
-| SMA 50 | $4627.62 | — |
+| Gold Spot | $4498.9 | Δ -0.3 (-0.01%) |
+| RSI 14 | 32 | NEUTRAL |
+| SMA 20 | $4577.59 | — |
+| SMA 50 | $4628.03 | — |
 | Trend | BEARISH (SMA20 < SMA50) | — |
 | History depth | 50 days | ✅ SMA50 ready |
 
@@ -351,4 +322,4 @@ News unavailable
 **News context:**
 News unavailable
 
-**Maximus note:** Price $4563.3. RSI 41 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
+**Maximus note:** Price $4498.9. RSI 32 (NEUTRAL). BEARISH (SMA20 < SMA50). Pattern accumulating — 50 days of data on record.
